@@ -1,0 +1,13 @@
+.contact-info {
+    position: absolute;
+    top: 0;
+    right: 0;
+    line-height: .5;
+  }
+  
+  .condensed-paragraph {
+    width: 80%;
+    margin: 1 auto;
+    text-align: start;
+  }
+  
